@@ -4,6 +4,8 @@ Actualización de la entrada de corriente para el OMEGA HOME COMPUTER
 ## v. 1.6
 Mejorada la distribución de fusibles para independizar el fusible de cada canal 5v, anteriormente el fusible de la placa base y la unidad de discos era común, ahora hay un fusible independiente para ambas vias.
 
+También se ha añadido una doble hilera de pines (J7 y J10) para permitir la conexión a la placa base con más de un tipo de conector (uno que conecta recto y otro que desplaza la conexión 2.54mm).
+
 ## v. 1.5
 Este circuito mejora la seguridad y comodidad para la interconexión del circuito mini fuente DC-DC +12v -12v a la placa base del OMEGA HOME COMPUTER.
 Permite la conexión de un interruptor de apagado, con una resistencia de descarga rapida, y también utilizar varios fusibles, uno por cada línea de tensión independiente.
